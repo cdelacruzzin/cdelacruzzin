@@ -25,8 +25,6 @@
 - 📫 **Reach Out:** [en.carlos.delacruz@gmail.com](mailto:en.carlos.delacruz@gmail.com)
 
 ## 🔗 **Check Out My Portfolio**
-> ### [![Portfolio Badge](https://img.shields.io/badge/-Carlos'_Portfolio-blueviolet?style=for-the-badge&logo=book-open&logoColor=white)](https://cdelacruzzin.github.io/20-React-React-Portfolio/)
-
 
 
   <hr>
